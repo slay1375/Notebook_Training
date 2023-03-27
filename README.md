@@ -1,2 +1,1 @@
-# Notebook_Training
- 
+# Training notebooks to practice Juypter Notebook skills 
